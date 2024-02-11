@@ -1,0 +1,15 @@
+.header {
+  padding: 20px 15px;
+  background-color: #081433;
+  color: #fff;
+}
+
+.header h3 {
+  margin: 0;
+}
+
+.headerRaw {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

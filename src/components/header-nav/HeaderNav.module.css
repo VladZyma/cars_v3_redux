@@ -1,0 +1,17 @@
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: rgb(19, 129, 231);
+}
+
+.nav a[class="active"] {
+  color: red;
+  text-decoration: underline;
+}
